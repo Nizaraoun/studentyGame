@@ -2,8 +2,6 @@ import 'dart:convert';
 
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'package:shared_preferences/shared_preferences.dart';
-
 import '../model/usermodel.dart';
 
 Future<bool> saveUserProfile(UserProfile profile) async {

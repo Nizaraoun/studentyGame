@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 
+import 'view/auth/register_screen.dart';
 import 'view/auth/reset.dart';
 import 'view/menu/choixmaladie.dart';
 
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/page',
       theme: ThemeData(primaryColor: Color.fromARGB(255, 255, 20, 20)),
       getPages: [
-        GetPage(name: '/page', page: () => Maladies()),
+        GetPage(name: '/page', page: () => login()),
       ],
     );
   }
