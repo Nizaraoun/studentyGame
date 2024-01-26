@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309864600833",
+    "project_id": "sente-49931",
+    "storage_bucket": "sente-49931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309864600833:android:efba99c794bf42ad2cb700",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVrW4jUguoV6pves-iU4a0VSdJ8Nnlq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
